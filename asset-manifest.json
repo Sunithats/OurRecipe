@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OurRecipe/static/css/main.8914208f.css",
+    "main.js": "/OurRecipe/static/js/main.142d0441.js",
+    "static/js/453.ea9d00ca.chunk.js": "/OurRecipe/static/js/453.ea9d00ca.chunk.js",
+    "index.html": "/OurRecipe/index.html",
+    "main.8914208f.css.map": "/OurRecipe/static/css/main.8914208f.css.map",
+    "main.142d0441.js.map": "/OurRecipe/static/js/main.142d0441.js.map",
+    "453.ea9d00ca.chunk.js.map": "/OurRecipe/static/js/453.ea9d00ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8914208f.css",
+    "static/js/main.142d0441.js"
+  ]
+}
